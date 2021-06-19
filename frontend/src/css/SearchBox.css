@@ -1,0 +1,12 @@
+.form-input {
+  margin: 0 5px 0 0;
+}
+
+@media only screen and (max-width: 900px) {
+  .form-inline {
+    width: 70%;
+  }
+  .form-input {
+    margin: 0 5px 0 -3px;
+  }
+}
